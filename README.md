@@ -9,6 +9,8 @@ Every entry has a name and a NUTS identifier.
 
 See [example.html](example.html) for additional info.
 
+![](example.png)
+
 Sources:
   * [http://www.sodbtn.sk](http://www.sodbtn.sk)
   * [http://wiki.freemap.sk/HraniceAdministrativnychUzemi](http://wiki.freemap.sk/HraniceAdministrativnychUzemi)
